@@ -1,0 +1,10 @@
+@font-face {
+    src: url("/fonts/BMitra.ttf") format('truetype');
+    font-family: 'BMitra';
+}
+body{
+    font-family: "BMitra";
+    font-size: 18px;
+    direction: rtl;
+    text-align: right;
+}
